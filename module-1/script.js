@@ -39,7 +39,6 @@ function deleteOne(){
         bar.value = bar.value.slice(0, -1)
     }
     makeTempAns()
-   
 }
 
 function calculate(){
